@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import Img1 from "../public/logo.png";
+import Img1 from "@/app/assets/logo.png";
 import { FaPhoneAlt } from "react-icons/fa";
 import { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";

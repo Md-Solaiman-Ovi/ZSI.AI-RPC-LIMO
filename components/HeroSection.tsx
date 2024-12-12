@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 "use client";
 import { useState, useEffect } from "react";
-import heroImage from "@/public/heroSectionImg1.jpg"; // Adjust the path as per your file structure
+import heroImage from "@/app/assets/heroSectionImg1.jpg"; // Adjust the path as per your file structure
 
 const HeroSection = () => {
   const slides = [
