@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Client1 from "../public/clientImg1.jpg";
 import Client2 from "../public/clientImg2.jpg";
-import Client3 from "../public/clientImg3.jpg";
+import Client3 from "../public/ClientImg3.jpg";
 
 const testimonials = [
   {
