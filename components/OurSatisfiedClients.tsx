@@ -1,27 +1,27 @@
 /* eslint-disable @next/next/no-img-element */
 "use client";
 import { useState } from "react";
-import ClientImg1 from "../public/clientImg1.jpg";
-import ClientImg2 from "../public/clientImg2.jpg";
-import ClientImg3 from "../public/clientImg3.jpg";
+import Client1 from "../public/clientImg1.jpg";
+import Client2 from "../public/clientImg2.jpg";
+import Client3 from "../public/clientImg3.jpg";
 
 const testimonials = [
   {
     text: "Impeccable service! From punctuality to the pristine condition of the vehicles, RPC Limo made our corporate event seamless and stylish. Highly recommended!",
     name: "Peter Rose",
-    image: ClientImg1.src,
+    image: Client1.src,
     rating: 5,
   },
   {
     text: "RPC Limo exceeded our expectations! The professionalism and comfort provided made our wedding day truly special.",
     name: "Carolina Montoya",
-    image: ClientImg2.src,
+    image: Client2.src,
     rating: 4,
   },
   {
     text: "Amazing service and friendly staff. Highly recommended for anyone looking for luxury and reliability.",
     name: "Md Solaiman Ovi",
-    image: ClientImg3.src,
+    image: Client3.src,
     rating: 5,
   },
 ];
