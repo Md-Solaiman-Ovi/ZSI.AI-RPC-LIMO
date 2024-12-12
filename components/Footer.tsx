@@ -1,6 +1,6 @@
 import Image from "next/image";
-import Logo from "@/app/assets/logo.png";
-import AppStoreLogo from "@/app/assets/app_logo.png";
+import Logo from "../public/logo.png";
+import AppStoreLogo from "../public/app_logo.png";
 
 const Footer: React.FC = () => {
   return (

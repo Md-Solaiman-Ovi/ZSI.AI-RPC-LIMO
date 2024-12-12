@@ -1,9 +1,9 @@
 /* eslint-disable @next/next/no-img-element */
 "use client";
 import { useState } from "react";
-import ClientImg1 from "@/app/assets/clientImg1.jpg";
-import ClientImg2 from "@/app/assets/clientImg2.jpg";
-import ClientImg3 from "@/app/assets/clientImg3.jpg";
+import ClientImg1 from "../public/clientImg1.jpg";
+import ClientImg2 from "../public/clientImg2.jpg";
+import ClientImg3 from "../public/clientImg3.jpg";
 
 const testimonials = [
   {
